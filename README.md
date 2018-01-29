@@ -4,8 +4,7 @@
 
 
 1. Post a selfie
-![alt text][selfie]
 
-[selfie]: IMG_2933.jpg
+![Selfie](https://github.com/ece-09363/hello-world-Kmiskovich/blob/master/IMG_2933.JPG)
 
-2. Tell me something interesting about yourself: I am a musician and enjoy embedded software design.
+2. Something interesting about myself: I am a musician and enjoy embedded software design.
